@@ -71,7 +71,7 @@ echo $dtVancouver->diffInHours($dtToronto); // 3
 
 ## Links
 * [License (MIT)](http://www.opensource.org/licenses/mit-license.php)
-* [Intervention Carbon](https://github.com/briannesbitt/carbon)
+* [Carbon](https://github.com/briannesbitt/carbon)
 * [Laravel website](http://laravel.com)
 * [Laravel Turkiye website](http://www.laravel.gen.tr)
 * [MeWebStudio website](http://www.mewebstudio.com)
